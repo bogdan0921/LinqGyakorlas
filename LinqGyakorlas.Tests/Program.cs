@@ -140,7 +140,7 @@ namespace LinqGyakorlas.Tests
 
             Assert.That(result.First(), Is.EqualTo("SS Voyager (Explorer)"));
         }
-
+        //
         [Test]
         //
         public void GetShipsGroupedByType_GroupsAllTypes()
