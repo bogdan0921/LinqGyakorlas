@@ -142,6 +142,7 @@ namespace LinqGyakorlas.Tests
         }
 
         [Test]
+        //
         public void GetShipsGroupedByType_GroupsAllTypes()
         {
             var result = _fleetManager.GetShipsGroupedByType();
