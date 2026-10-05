@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LinqGyakorlas.Tests/LinqGyakorlas.Tests.csproj" />
+  <Project Path="LinqGyakorlas/LinqGyakorlas.csproj" />
+</Solution>
